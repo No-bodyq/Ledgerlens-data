@@ -5,6 +5,7 @@ __pycache__/
 venv/
 
 .env
+temp_auto_push.bat
 *.db
 
 models/*.pkl
@@ -13,3 +14,5 @@ models/archive/
 reports/
 
 .DS_Store
+.gitignore
+branch_structure.json
