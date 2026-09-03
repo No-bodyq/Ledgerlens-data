@@ -156,8 +156,6 @@ Desktop.ini
 *.swo
 *~
 .idea/
-.vscode/
-.vscode/settings.json
 *.code-workspace
 .project
 .classpath
@@ -257,3 +255,6 @@ alerts_dlq.ndjson
 
 # Grafana provisioning secrets
 monitoring/grafana/provisioning/datasources/*.yaml
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
